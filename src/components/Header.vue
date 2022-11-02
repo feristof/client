@@ -6,7 +6,7 @@
 
     <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://i.pinimg.com/originals/2d/27/51/2d2751a9c62632ec5718c9544f0281e6.jpg">
+    <a class="navbar-item">
         <img src="https://i.pinimg.com/originals/2d/27/51/2d2751a9c62632ec5718c9544f0281e6.jpg">
     
     </a>
